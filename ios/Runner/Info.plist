@@ -26,6 +26,10 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>O Banzeiro Tour usa a câmera para fotografar peças de artesanato.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>O Banzeiro Tour acessa suas fotos para adicionar imagens às peças de artesanato.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
